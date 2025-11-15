@@ -81,7 +81,51 @@ The final repository includes:
 - Python 3.12.7  
 - MySQL or PostgreSQL  
 - Python Libraries: `pandas`, `numpy`, `sqlalchemy`, `mysql-connector-python`, `psycopg2`  
-- Kaggle API key  
+- Kaggle API key
+
+# SQL Questions and Results
+
+## 1. Different payment methods and number of transactions
+![Q1](assets/q1.png)
+
+---
+
+## 2. Highest rated product category at each branch
+![Q2](assets/q2.png)
+
+---
+
+## 3. Busiest day for each branch
+![Q3](assets/q3.png)
+
+---
+
+## 4. Product category that generates the most revenue
+![Q4](assets/q4.png)
+
+---
+
+## 5. Time of day and day of week with the highest sales
+![Q5](assets/q5.png)
+
+---
+
+## 6. Branches generating revenue above company-wide average
+![Q6](assets/q6.png)
+
+---
+
+## 7. Second-highest revenue day for each branch
+![Q7](assets/q7.png)
+
+---
+
+## 8. Most common payment method for each branch
+![Q8](assets/q8.png)
+
+
+
+
 
 
 
