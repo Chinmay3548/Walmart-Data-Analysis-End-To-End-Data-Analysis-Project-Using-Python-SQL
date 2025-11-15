@@ -86,42 +86,43 @@ The final repository includes:
 # SQL Questions and Results
 
 ## 1. Different payment methods and number of transactions
-![Q1](assets/q1.png)
+![Q1](q1.png)
 
 ---
 
 ## 2. Highest rated product category at each branch
-![Q2](assets/q2.png)
+![Q2](q2.png)
 
 ---
 
 ## 3. Busiest day for each branch
-![Q3](assets/q3.png)
+![Q3](q3.png)
 
 ---
 
 ## 4. Product category that generates the most revenue
-![Q4](assets/q4.png)
+![Q4](q4.png)
 
 ---
 
 ## 5. Time of day and day of week with the highest sales
-![Q5](assets/q5.png)
+![Q5](q5.png)
+![Q5](q6.png)
 
 ---
 
 ## 6. Branches generating revenue above company-wide average
-![Q6](assets/q6.png)
+![Q6](q7.png)
 
 ---
 
 ## 7. Second-highest revenue day for each branch
-![Q7](assets/q7.png)
+![Q7](q8.png)
 
 ---
 
 ## 8. Most common payment method for each branch
-![Q8](assets/q8.png)
+![Q8](q9.png)
 
 
 
